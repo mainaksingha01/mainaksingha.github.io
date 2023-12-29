@@ -15,4 +15,6 @@ Hi, I am an AI Research Scientist, working on [Tokyo Research Center](https://ww
 <col width="100px">
 <col width="636px">
 <tr><td style="border:0 none;"><b>Oct 2023:</b></td><td style="border:0 none;">Joined TRC, Aisin Corporation in Tokyo, Japan!</td></tr>
-<tr><td style="border:0 none;"><b>April 2023:</b></td><td style="border:0 none;">Paper on <a href="https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Jha_APPLeNet_Visual_Attention_Parameterized_Prompt_Learning_for_Few-Shot_Remote_Sensing_CVPRW_2023_paper.html"> Vision-Language Model in Remote Sensing (APPLeNet) </a> accepted in EarthVision, CVPR Workshops 2023 </td></tr>
+<tr><td style="border:0 none;"><b>April 2023:</b></td><td style="border:0 none;">Work on domain adaptation using VLM <a href="https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Singha_AD-CLIP_Adapting_Domains_in_Prompt_Space_Using_CLIP_ICCVW_2023_paper.html"> AD-CLIP </a>  is accepted in ICCV Workshops 2023 </td></tr>
+<tr><td style="border:0 none;"><b>April 2023:</b></td><td style="border:0 none;"><a href="https://papers.bmvc2023.org/0314.pdf"> GOPro </a>  is accepted in BMVC 2023 </td></tr>
+<tr><td style="border:0 none;"><b>April 2023:</b></td><td style="border:0 none;">Paper on <a href="https://openaccess.thecvf.com/content/CVPR2023W/EarthVision/html/Jha_APPLeNet_Visual_Attention_Parameterized_Prompt_Learning_for_Few-Shot_Remote_Sensing_CVPRW_2023_paper.html"> Vision-Language Model in Remote Sensing (APPLeNet) </a> accepted in CVPR Workshops 2023 </td></tr>
