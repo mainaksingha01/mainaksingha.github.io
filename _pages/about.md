@@ -20,7 +20,7 @@ Hi, I am an AI Research Scientist, working on [Tokyo Research Center](https://ww
 
 <tr><td style="border:0 none;"><b>Oct 2023:</b></td><td style="border:0 none;"><a href="https://arxiv.org/abs/2311.15812">C-SAW</a> a self-supervised VLM in Remote Sensing, is accepted in ICVGIP 2023 </td></tr>
   
-<tr><td style="border:0 none;"><b>Oct 2023:</b></td><td style="border:0 none;">Joined TRC, Aisin Corporation in Tokyo, Japan!</td></tr>
+<tr><td style="border:0 none;"><b>Oct 2023:</b></td><td style="border:0 none;">Joined <a href="https://www.aisin.com/jp/technology/rd/trc/">TRC</a>, Aisin Corporation in Tokyo, Japan!</td></tr>
 
 <tr><td style="border:0 none;"><b>Sep 2023:</b></td><td style="border:0 none;">HAVE-Net has received Best Paper Award in ECML-PKDDw'23, Turin, Italy !! </td></tr>
 
