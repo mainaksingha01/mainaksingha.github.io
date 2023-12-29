@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am an AI Research Scientist, working on [Tokyo Research Center](https://www.aisin.com/jp/technology/rd/trc/), [Aisin Corporation] (https://www.aisin.com/en/), Tokyo, Japan. Aisin is a Fortune Global 500 company and a member of the Toyota Group of companies. My research area in Aisin is mainly focused on Computer-Vision and Natural Langauge Processing based Machine Perception research in Autonomous Driving.
+Hi, I am an AI Research Scientist, working on [Tokyo Research Center](https://www.aisin.com/jp/technology/rd/trc/), [Aisin Corporation] (https://www.aisin.com/en/), Tokyo, Japan. Aisin is a Fortune Global 500 company and a member of the Toyota Group of companies. My research area in Aisin is mainly focused on Computer-Vision based Machine Perception research in Autonomous Driving.
 ### Updates
 
 <div style="height:400px;overflow:auto">
