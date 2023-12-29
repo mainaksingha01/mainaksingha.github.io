@@ -16,7 +16,7 @@ Hi, I am an AI Research Scientist, working on [Tokyo Research Center](https://ww
 <col width="636px">
 <tr><td style="border:0 none;"><b>Sep 2023:</b></td><td style="border:0 none;">Best Paper Award again! This time for <a href="https://arxiv.org/abs/2311.15812">C-SAW</a> in ICVGIP'23 </td></tr>
 
-<tr><td style="border:0 none;"><b>Oct 2023:</b></td><td style="border:0 none;"><a href="https://openaccess.thecvf.com/content/WACV2024/html/Bose_STYLIP_Multi-Scale_Style-Conditioned_Prompt_Learning_for_CLIP-Based_Domain_Generalization_WACV_2024_paper.html"> StyLIP</a> is accepted in WACV 2024 </td></tr>
+<tr><td style="border:0 none;"><b>Oct 2023:</b></td><td style="border:0 none;">Multi-Scale Style-Conditioned Prompt Learning <a href="https://openaccess.thecvf.com/content/WACV2024/html/Bose_STYLIP_Multi-Scale_Style-Conditioned_Prompt_Learning_for_CLIP-Based_Domain_Generalization_WACV_2024_paper.html">StyLIP</a> is accepted in WACV 2024 </td></tr>
 
 <tr><td style="border:0 none;"><b>Oct 2023:</b></td><td style="border:0 none;"><a href="https://arxiv.org/abs/2311.15812">C-SAW</a> a self-supervised VLM in Remote Sensing, is accepted in ICVGIP 2023 </td></tr>
   
