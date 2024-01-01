@@ -3,7 +3,7 @@ title: "HAVE-Net: Hallucinated Audio-Visual Embeddings for Few-Shot Classificati
 collection: publications
 permalink: /publication/2023-09-01-paper-title-number-2
 excerpt: ''
-venue: 'ECML-PKDD Workshops 2023'
+venue: 'ECML-PKDD Workshops'
 citation: '@article{jha2023have,
   title={HAVE-Net: Hallucinated Audio-Visual Embeddings for Few-Shot Classification with Unimodal Cues},
   author={Jha, Ankit and Pal, Debabrata and Singha, Mainak and Agarwal, Naman and Banerjee, Biplab},
