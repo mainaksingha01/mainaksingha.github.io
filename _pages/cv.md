@@ -64,4 +64,18 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Department Coordinator, ISCP, IIT Bombay (*Jul'22 - Jun'23*)
+  * Volunteered for coordinating Institute PG Orientation Program comprising of 1500+ new entrants
+  * Enhancing Leadership and Team Building Skills by mentoring & guiding 32 new entrants of the department
+    
+* Interview Coordinator, Placement Office, IIT Bombay (*Oct'21 - Dec'21*)
+  * Coordinated with a team of 250+ members for interviews of 1800+ students
+  * Assisted in conducting tests for 20+ firms and handling student queries
+    
+* Mentor, Inter-IIT Tech Fest, IIT Bombay (*Mar'23 - May'23*)
+  * Mentored a group of 7 students to represent IIT Bombay in Inter-IIT Tech Fest, 2023, projects sponsored by ISRO.
+  * AI-based solutions for super-resolution and moon geo-mapping for next Chandrayaan missions.
+ 
+* Mentor, Abhyuday, IIT Bombay (*Aug'21 - Nov'21*)
+  * Conducted the Entrepreneurship Awareness Program under action plan attended by 150+ college students
+  * Spearheaded a college team to carry out social activities and Career Counselling Campaign under Abhyuday
