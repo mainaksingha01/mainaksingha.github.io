@@ -3,7 +3,7 @@ title: "AD-CLIP: Adapting Domains in Prompt Space Using CLIP"
 collection: publications
 permalink: /publication/2023-10-01-paper-title-number-3
 excerpt: ''
-venue: 'IEEE/CVF International Conference on Computer Vision (ICCV) Workshops 2023'
+venue: 'IEEE/CVF International Conference on Computer Vision (ICCV) Workshops'
 citation: '@inproceedings{singha2023ad,
   title={Ad-clip: Adapting domains in prompt space using clip},
   author={Singha, Mainak and Pal, Harsh and Jha, Ankit and Banerjee, Biplab},
