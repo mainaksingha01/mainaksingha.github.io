@@ -1,7 +1,7 @@
 ---
 title: "APPLeNet: Visual Attention Parameterized Prompt Learning for Few-Shot Remote Sensing Image Generalization using CLIP"
 collection: publications
-permalink: /publication/2023-01-01-paper-title-number-1
+permalink: /publication/2023-06-01-paper-title-number-1
 excerpt: ''
 venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops'
 citation: '@inproceedings{singha2023applenet,
