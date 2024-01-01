@@ -3,7 +3,7 @@ title: "GOPro: Generate and Optimize Prompts in CLIP using Self-Supervised Learn
 collection: publications
 permalink: /publication/2023-11-01-paper-title-number-4
 excerpt: ''
-venue: 'British Machine Vision Conference (BMVC) 2023'
+venue: 'British Machine Vision Conference (BMVC)'
 citation: '@article{singha2023gopro,
   title={GOPRO: Generate and Optimize Prompts in CLIP using Self-Supervised Learning},
   author={Singha, Mainak and Jha, Ankit and Banerjee, Biplab},
