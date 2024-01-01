@@ -3,7 +3,7 @@ title: "C-SAW: Self-Supervised Prompt Learning for Image Generalization in Remot
 collection: publications
 permalink: /publication/2023-12-01-paper-title-number-1
 excerpt: ''
-venue: 'Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP) 2023'
+venue: 'Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)'
 citation: '@article{bhattacharya2023c,
   title={C-SAW: Self-Supervised Prompt Learning for Image Generalization in Remote Sensing},
   author={Bhattacharya, Avigyan and Singha, Mainak and Jha, Ankit and Banerjee, Biplab},
