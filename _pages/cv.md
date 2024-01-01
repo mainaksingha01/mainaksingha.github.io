@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.Tech. in Geoinformatics Engineering, Indian Institute of Technology (IIT) Bombay, India, 2023
+* M.S. in Physics, Indian Institute of Technology (IIT) Hyderabad, India, 2020
+* B.S. in Physics, University of North Bengal, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* AI Research Scientist (*Oct 2023 - Present*)
+  * Tokyo Research Center, Aisin Corporation, Tokyo, Japan
+  * Autonomous Driving, Machine Perception
 
 * Fall 2015: Research Assistant
   * Github University
