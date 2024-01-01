@@ -3,7 +3,7 @@ title: "STYLIP: Multi-Scale Style-Conditioned Prompt Learning for CLIP-Based Dom
 collection: publications
 permalink: /publication/2024-01-01-paper-title-number-6
 excerpt: ''
-venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024'
+venue: 'IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)'
 citation: '@inproceedings{bose2024stylip,
   title={Stylip: Multi-scale style-conditioned prompt learning for clip-based domain generalization},
   author={Bose, Shirsha and Jha, Ankit and Fini, Enrico and Singha, Mainak and Ricci, Elisa and Banerjee, Biplab},
