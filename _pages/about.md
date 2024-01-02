@@ -24,7 +24,7 @@ Hi, I am an AI Research Scientist, working at [Tokyo Research Center](https://ww
 
 <tr><td style="border:0 none;"><b>Sep 2023:</b></td><td style="border:0 none;">HAVE-Net has received Best Paper Award in ECML-PKDDw'23, Turin, Italy !! </td></tr>
 
-<tr><td style="border:0 none;"><b>Aug 2023:</b></td><td style="border:0 none;"><a href="https://papers.bmvc2023.org/0314.pdf"> GOPro</a>, for self-supervised domain generalization, is accepted in BMVC 2023 </td></tr>
+<tr><td style="border:0 none;"><b>Aug 2023:</b></td><td style="border:0 none;"><a href="https://papers.bmvc2023.org/0314.pdf"> GOPro</a>, for self-supervised domain generalization, accepted in BMVC 2023 </td></tr>
 
 <tr><td style="border:0 none;"><b>Aug 2023:</b></td><td style="border:0 none;">Work on domain adaptation using Prompt Learning based model <a href="https://openaccess.thecvf.com/content/ICCV2023W/OODCV/html/Singha_AD-CLIP_Adapting_Domains_in_Prompt_Space_Using_CLIP_ICCVW_2023_paper.html"> AD-CLIP </a> is accepted in ICCVw 2023 </td></tr>
 
