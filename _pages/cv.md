@@ -45,8 +45,8 @@ Skills
 
 Achievements
 ======
-* Best Paper Award in ICVGIP 2023 for ![C-SAW](https://arxiv.org/abs/2311.15812) paper
-* Best Paper Award in ECML-PKDDw 2023 for ![HAVE-Net](https://arxiv.org/abs/2309.13470) paper
+* Best Paper Award in ICVGIP 2023 for C-SAW paper
+* Best Paper Award in ECML-PKDDw 2023 for HAVE-Net paper
 * MHRD scholarship award for Postgraduate studies (M.Tech.) in IIT Bombay
 * Institute scholarship for top grades during M.S. in IIT Hyderabad
 
