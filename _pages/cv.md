@@ -61,8 +61,12 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Services
+======
+* Reviewer at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+
+Leadership
 ======
 * Department Coordinator, ISCP, IIT Bombay (*Jul'22 - Jun'23*)
   * Volunteered for coordinating Institute PG Orientation Program comprising of 1500+ new entrants
