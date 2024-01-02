@@ -8,6 +8,11 @@ redirect_from:
   - /about.html
 ---
 Hi, I am an AI Research Scientist, working at [Tokyo Research Center](https://www.aisin.com/jp/technology/rd/trc/), [Aisin Corporation](https://www.aisin.com/en), Tokyo, Japan. Aisin is a Fortune Global 500 company and a member of the Toyota Group of companies. My research area in Aisin is mainly focused on Computer-Vision based Machine Perception research in Autonomous Driving.
+
+Prior to that, I have completed my master's degree from Indian Institute of Technology (IIT) Bombay, Mumbai, India under the thesis supervision of [Prof. Biplab Banerjee](https://biplab-banerjee.github.io/). Also, I have worked as interns in MavenAI Technologies, India and Qen Labs Inc, USA on diffusion models, GeoAI, and many more. 
+
+Please check my full [CV](https://drive.google.com/file/d/1KJxo9MjbG1HFQQe60WmMghkU_uXSGAx6/view?usp=sharing) for more details.
+
 ### Updates
 
 <div style="height:400px;overflow:auto">
