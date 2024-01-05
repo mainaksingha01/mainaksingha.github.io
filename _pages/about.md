@@ -11,7 +11,7 @@ Hi, I am an AI Research Scientist, working at [Tokyo Research Center](https://ww
 
 Prior to that, I have completed my master's degree from Indian Institute of Technology (IIT) Bombay, Mumbai, India under the thesis supervision of [Prof. Biplab Banerjee](https://biplab-banerjee.github.io/). My research during masters was mainly focused on Vision-Language Foundation Models (VLMs) and resulted on publication of 6 papers including 2 Best Paper Awards. Also, I have worked as interns in MavenAI Technologies, India and Qen Labs Inc, USA on diffusion models, GeoAI, and many more. 
 
-Please check my full [CV](https://drive.google.com/file/d/1h5EkFRRV0atunDL9q7nat6xp5ByjMVf_/view?usp=sharing) for more details.
+Please check my full [CV](https://drive.google.com/file/d/1NdNFYlpiVGW3mERj7cgHJF1VedL2O4EP/view?usp=sharing) for more details.
 
 ### Updates
 
