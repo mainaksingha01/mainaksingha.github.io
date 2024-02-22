@@ -4,10 +4,11 @@ collection: publications
 permalink: /publication/2023-12-01-paper-title-number-1
 excerpt: ''
 venue: 'Indian Conference on Computer Vision, Graphics and Image Processing (ICVGIP)'
-citation: '@article{bhattacharya2023c,
+citation: '@inproceedings{bhattacharya2023c,
   title={C-SAW: Self-Supervised Prompt Learning for Image Generalization in Remote Sensing},
   author={Bhattacharya, Avigyan and Singha, Mainak and Jha, Ankit and Banerjee, Biplab},
-  journal={arXiv preprint arXiv:2311.15812},
+  booktitle={Proceedings of the Fourteenth Indian Conference on Computer Vision, Graphics and Image Processing},
+  pages={1--10},
   year={2023}
 }'
 
