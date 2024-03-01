@@ -19,7 +19,10 @@ Please check my full [CV](https://drive.google.com/file/d/1NdNFYlpiVGW3mERj7cgHJ
 <table rules=none style="border:0 none;">
 <col width="100px">
 <col width="636px">
-<tr><td style="border:0 none;"><b>Sep 2023:</b></td><td style="border:0 none;">Best Paper Award again! This time for <a href="https://arxiv.org/abs/2311.15812">C-SAW</a> in ICVGIP'23 </td></tr>
+
+<tr><td style="border:0 none;"><b>Dec 2023:</b></td><td style="border:0 none;">1 Paper (ODG-CLIP) accepted at CVPR'24 !</td></tr>
+
+<tr><td style="border:0 none;"><b>Dec 2023:</b></td><td style="border:0 none;">Best Paper Award again! This time for <a href="https://arxiv.org/abs/2311.15812">C-SAW</a> in ICVGIP'23 </td></tr>
 
 <tr><td style="border:0 none;"><b>Oct 2023:</b></td><td style="border:0 none;">Multi-Scale Style-Conditioned Prompt Learning <a href="https://openaccess.thecvf.com/content/WACV2024/html/Bose_STYLIP_Multi-Scale_Style-Conditioned_Prompt_Learning_for_CLIP-Based_Domain_Generalization_WACV_2024_paper.html">StyLIP</a> is accepted in WACV 2024 </td></tr>
 
