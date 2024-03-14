@@ -3,7 +3,7 @@ title: "Unknown Prompt, the only Lacuna: Unveiling CLIP's Potential for Open Dom
 collection: publications
 permalink: /publication/2024-03-01-paper-title-number-7
 excerpt: ''
-venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024'
+venue: 'IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)'
 ---
 
 We delve into Open Domain Generalization (ODG), marked by domain and category shifts between training's labeled source and testing's 
