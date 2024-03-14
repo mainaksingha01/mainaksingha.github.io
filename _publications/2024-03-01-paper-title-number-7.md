@@ -1,4 +1,3 @@
-
 ---
 title: "Unknown Prompt, the only Lacuna: Unveiling CLIP's Potential for Open Domain Generalization"
 collection: publications
