@@ -45,8 +45,8 @@ Skills
 
 Achievements
 ======
-* Best Paper Award in ICVGIP 2023 for C-SAW paper
-* Best Paper Award in ECML-PKDDw 2023 for HAVE-Net paper
+* Best Paper Award in ICVGIP 2023, ``C-SAW: Self-Supervised Prompt Learning for Image Generalization in Remote Sensing''
+* Best Paper Award in ECML-PKDDw 2023, ``HAVE-Net: Hallucinated Audio-Visual Embeddings for Few-Shot Classification with Unimodal Cues''
 * MHRD scholarship award for Postgraduate studies (M.Tech.) in IIT Bombay
 * Institute scholarship for top grades during M.S. in IIT Hyderabad
 
@@ -65,6 +65,7 @@ Teaching
 Services
 ======
 * Reviewer at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+* Reviewer at CVPR 2024: 2nd Workshop on What is Next in Multimodal Foundation Models.
 
 Leadership
 ======
