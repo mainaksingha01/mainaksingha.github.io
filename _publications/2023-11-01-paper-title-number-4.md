@@ -4,14 +4,6 @@ collection: publications
 permalink: /publication/2023-11-01-paper-title-number-4
 excerpt: ''
 venue: 'British Machine Vision Conference (BMVC)'
-citation: '@article{singha2023gopro,
-  title={GOPRO: Generate and Optimize Prompts in CLIP using Self-Supervised Learning},
-  author={Singha, Mainak and Jha, Ankit and Banerjee, Biplab},
-  journal={arXiv preprint arXiv:2308.11605},
-  year={2023}
-}'
-
-
 ---
 
 Large-scale foundation models, such as CLIP, have demonstrated remarkable success in visual recognition tasks by embedding images in a semantically rich space. Selfsupervised learning (SSL) has also shown promise in improving visual recognition by
