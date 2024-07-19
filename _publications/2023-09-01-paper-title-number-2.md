@@ -3,13 +3,7 @@ title: "HAVE-Net: Hallucinated Audio-Visual Embeddings for Few-Shot Classificati
 collection: publications
 permalink: /publication/2023-09-01-paper-title-number-2
 excerpt: ''
-venue: 'ECML-PKDD Workshops'
-citation: '@article{jha2023have,
-  title={HAVE-Net: Hallucinated Audio-Visual Embeddings for Few-Shot Classification with Unimodal Cues},
-  author={Jha, Ankit and Pal, Debabrata and Singha, Mainak and Agarwal, Naman and Banerjee, Biplab},
-  journal={arXiv preprint arXiv:2309.13470},
-  year={2023}
-}'
+venue: 'European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD) Workshops'
 ---
 
 Best Paper Award !
