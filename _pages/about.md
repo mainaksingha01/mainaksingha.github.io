@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I am an AI Research Scientist, working at [Tokyo Research Center](https://www.aisin.com/jp/technology/rd/trc/), [Aisin Corporation](https://www.aisin.com/en), Tokyo, Japan. Aisin is a Fortune Global 500 company and a member of the Toyota Group of companies. My research area in Aisin is mainly focused on Computer-Vision based Machine Perception research in Autonomous Driving.
+Hi, I am an AI Research Scientist, working at [Tokyo Research Center](https://www.aisin.com/jp/technology/rd/trc/), [Aisin Corporation](https://www.aisin.com/en), Tokyo, Japan. Aisin is a Fortune Global 500 company and a member of the Toyota Group of companies. My research area in Aisin is mainly focused on Vision based AI research in Autonomous Driving.
 
-Prior to that, I have completed my master's degree from Indian Institute of Technology (IIT) Bombay, Mumbai, India under the thesis supervision of [Prof. Biplab Banerjee](https://biplab-banerjee.github.io/). My research during masters was mainly focused on Vision-Language Foundation Models (VLMs) and resulted on publication of 8 papers including 2 Best Paper Awards. Also, I have worked as interns in MavenAI Technologies, India and Qen Labs Inc, USA on diffusion models, GeoAI, and many more. 
+Prior to that, I have completed my master's degree from Indian Institute of Technology (IIT) Bombay, Mumbai, India under the thesis supervision of [Prof. Biplab Banerjee](https://biplab-banerjee.github.io/). My research during masters was mainly focused on Vision-Language Foundation Models (VLMs) and resulted on publication of 7 papers including 2 Best Paper Awards. Also, I have worked as interns in MavenAI Technologies, India and Qen Labs Inc, USA on diffusion models, GeoAI, and many more. 
 
 
 ### Updates
