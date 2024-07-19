@@ -4,13 +4,6 @@ collection: publications
 permalink: /publication/2023-10-01-paper-title-number-3
 excerpt: ''
 venue: 'IEEE/CVF International Conference on Computer Vision (ICCV) Workshops'
-citation: '@inproceedings{singha2023ad,
-  title={Ad-clip: Adapting domains in prompt space using clip},
-  author={Singha, Mainak and Pal, Harsh and Jha, Ankit and Banerjee, Biplab},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  pages={4355--4364},
-  year={2023}
-}'
 ---
 
 Although deep learning models have shown impressive performance on supervised learning tasks, they often struggle to generalize well when the training (source) and test (target) domains differ. Unsupervised domain adaptation (DA) has emerged as a popular solution to this problem. However, current DA techniques rely on visual backbones, which may lack semantic richness. Despite the potential of large-scale vision-language foundation models like CLIP, their effectiveness for DA has yet to be fully explored. To address this gap, we introduce AD-CLIP, a domain-agnostic prompt learning strategy for CLIP that aims to solve the DA problem in the prompt space. We leverage the frozen vision backbone of CLIP to extract both image style (domain) and content information, which we apply to learn prompt tokens. Our prompts are designed to be domain-invariant and class-generalizable, by conditioning prompt learning on image style and content features simultaneously. We use standard supervised contrastive learning in the source domain, while proposing an entropy minimization strategy to align domains in the embedding space given the target domain data. We also consider a scenario where only target domain samples are available during testing, without any source domain data, and propose a cross-domain style mapping network to hallucinate domain-agnostic tokens. Our extensive experiments on three benchmark DA datasets demonstrate the effectiveness of AD-CLIP compared to existing literature.
