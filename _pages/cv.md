@@ -64,11 +64,15 @@ Teaching
 
 Services
 ======
-* Reviewer at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
-* Reviewer at CVPR 2024: 2nd Workshop on What is Next in Multimodal Foundation Models
-* Reviewer at BMVC 2024
-* Reviewer at ICPR 2024
-* Reviewer at ICLR 2025
+* Conferences
+** Reviewer at IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2024
+** Reviewer at CVPR 2024: 2nd Workshop on What is Next in Multimodal Foundation Models
+** Reviewer at BMVC 2024
+** Reviewer at ICPR 2024
+** Reviewer at ICLR 2025
+  
+* Journals
+** Reviewer at IEEE Transactions on Circuits and Systems for Video Technology
 
 Leadership
 ======
