@@ -70,6 +70,7 @@ Services
 * Reviewer at ICPR 2024
 * Reviewer at ICLR 2025  
 * Reviewer at IEEE Transactions on Circuits and Systems for Video Technology
+* Reviewer at IEEE Transactions on Multimedia
 
 Leadership
 ======
