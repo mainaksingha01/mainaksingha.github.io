@@ -68,7 +68,8 @@ Services
 * Reviewer at CVPR 2024: 2nd Workshop on What is Next in Multimodal Foundation Models
 * Reviewer at BMVC 2024
 * Reviewer at ICPR 2024
-* Reviewer at ICLR 2025  
+* Reviewer at ICLR 2025
+* Reviewer at International Journal of Computer Vision (IJCV)
 * Reviewer at IEEE Transactions on Circuits and Systems for Video Technology
 * Reviewer at IEEE Transactions on Multimedia
 
